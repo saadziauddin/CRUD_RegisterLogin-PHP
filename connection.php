@@ -1,6 +1,6 @@
 <?php
 
-    $connect = mysqli_connect('localhost','root','','practice_crud');
+    $connect = mysqli_connect('localhost','root','','crud_operation');
     
     // if($connect!=null)
     // {
